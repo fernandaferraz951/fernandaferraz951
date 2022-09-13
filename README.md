@@ -1,9 +1,9 @@
-# **Olá, me chamo Fernanda e sou Desenvolvedora Fullstack Júnior. | Hi!! my name is Fernanda and i'm fullstack developer jr.**  👋
+# **Olá, me chamo Fernanda e sou Admin Salesforce/Consultura Trainee. | Hi!! my name is Fernanda and i'm Salesforce Administrator**  👋
 ## Amo café, filmes dos anos 80's, cachorros e star wars. | I love coffee, 80's movies, dogs and Star Wars.
 
 
-### 🌱Atualmente estou estudando Desenvolvimento de Sistemas na ETEC Jardim Ângela | I’m currently learning systems development at ETEC Jardim Ângela
-### 🌌 technogies: HTML, CSS, Bootstrap, JavaScript, Typescript, Spring Boot, Java, Postman e MySql.
+### 🌱Atualmente estou estudando Bharelado em Tecnologia da Informação na UNIVESP | I’m currently learning IT at UNIVESP.
+### 🌌 technogies: Salesforce, React JS HTML, CSS, Bootstrap, JavaScript, Typescript, Spring Boot, Java, Postman e MySql.
 ### 💻 Student at Generation Brasil
 ### Tecnologias que usei em projetos || technologies that I used in projects.
 
